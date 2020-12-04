@@ -1,6 +1,7 @@
 body {
     font-size: 16px;    
-    background-color: #FFDAE2;    
+    background-color: #FFDAE2;
+    font-family: 'Oxygen', sans-serif;  
 }
 
 /** HEADER **/
@@ -43,6 +44,20 @@ body {
     background-color: #E7E7E7;
 }
 
-
-
 /** END HEADER **/
+
+h1 {    
+    font-family: 'Lora', serif;
+    color: #595963;
+    font-size: 2.5em;    
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 10px;
+    margin-bottom: 0;
+    line-height: .75;    
+}
+
+section {
+    background-color: #fff;
+    margin-top: 40px;
+}
