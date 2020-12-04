@@ -1,0 +1,48 @@
+body {
+    font-size: 16px;    
+    background-color: #FFDAE2;    
+}
+
+/** HEADER **/
+#header-nav {
+    background-color: #0D36DB;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-header a { /* Food, LLC */
+    font-family: 'Nerko One', cursive;    
+    font-size: 2.8em;    
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:hover{
+    color: #E7E7E7;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;    
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #2e8fb6;
+    border: 1px solid #fff;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    background-color: #E7E7E7;
+}
+
+
+
+/** END HEADER **/
